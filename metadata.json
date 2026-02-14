@@ -1,0 +1,7 @@
+{
+  "name": "Seek Thee Rasa - The Heartbeat of Heritage",
+  "description": "A visually immersive exploration of India's monumental essence. Discover the Rasa of history through curated storytelling and authentic visual archives.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
